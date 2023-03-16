@@ -1,3 +1,3 @@
 //lanzar mensajes al usuario
 
-alert ('HOLA');
+alert ('Hola Macario');
