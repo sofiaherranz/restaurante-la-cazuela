@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 body{
-    marign: 50px 200px;
+    margin: 50px 200px;
     background-color: beige;
 }
 body > header{
