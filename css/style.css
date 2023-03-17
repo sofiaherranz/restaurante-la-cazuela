@@ -23,3 +23,9 @@ p{
     font-family: sans-serif;
     line-height: 1.4em;
 }
+.especial{
+    font-size: 1.3em;
+    font-weight: bold;
+    color: orangered;
+    
+}
